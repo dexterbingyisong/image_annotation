@@ -1,0 +1,7 @@
+# pip install -r requirements.txt
+
+PyQt5==5.15.4
+pyqtgraph==0.12.1
+opencv-python==4.5.1.48
+numpy==1.19.2
+Cython==0.29.21
